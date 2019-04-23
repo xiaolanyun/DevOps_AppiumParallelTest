@@ -1,0 +1,163 @@
+[2019-04-23 16:02:26] [INFO] 小烂云Mart已经启动
+[2019-04-23 16:02:26] [INFO] rootAddUser 测试用例开始执行！
+[2019-04-23 16:02:26] [INFO] rootAddUser 测试用例开始执行！
+[2019-04-23 16:02:26] [INFO] rootAddUser 测试用例开始执行！
+[2019-04-23 16:02:26] [INFO] rootAddUser 测试用例开始执行！
+[2019-04-23 16:02:26] [INFO] 账户登陆
+[2019-04-23 16:02:26] [INFO] 输入账户名称
+[2019-04-23 16:02:28] [INFO] 暂停:2秒
+[2019-04-23 16:02:28] [INFO] 小烂云Mart已经启动
+[2019-04-23 16:02:28] [INFO] checkLoginUI 测试用例开始执行！
+[2019-04-23 16:02:28] [INFO] checkLoginUI 测试用例开始执行！
+[2019-04-23 16:02:28] [INFO] checkLoginUI 测试用例开始执行！
+[2019-04-23 16:02:28] [INFO] checkLoginUI 测试用例开始执行！
+[2019-04-23 16:02:28] [INFO] 等待登陆界面加载
+[2019-04-23 16:02:33] [INFO] 暂停:5秒
+[2019-04-23 16:02:33] [INFO] 等待5s完成
+[2019-04-23 16:02:34] [INFO] 在元素： id: com.example.xiaolanyun.ldmart:id/et_username输入内容root
+[2019-04-23 16:02:34] [INFO] 输入账户密码
+[2019-04-23 16:02:35] [INFO] 登陆界面元素加载完成
+[2019-04-23 16:02:35] [INFO] 验证登陆界面客户，商户，管理员三个元素
+[2019-04-23 16:02:35] [INFO] 找到了期望的文字：【客户】
+[2019-04-23 16:02:35] [INFO] 找到了期望的文字：【商户】
+[2019-04-23 16:02:36] [INFO] 暂停:2秒
+[2019-04-23 16:02:36] [INFO] 找到了期望的文字：【管理员】
+[2019-04-23 16:02:36] [INFO] 验证完成
+[2019-04-23 16:02:36] [INFO] 账户登陆
+[2019-04-23 16:02:36] [INFO] 输入账户名称
+[2019-04-23 16:02:38] [INFO] 暂停:2秒
+[2019-04-23 16:02:41] [INFO] 在元素： id: com.example.xiaolanyun.ldmart:id/et_password输入内容123456
+[2019-04-23 16:02:41] [INFO] 选择账户类型
+[2019-04-23 16:02:42] [INFO] 点击元素： id: com.example.xiaolanyun.ldmart:id/rbtn_root
+[2019-04-23 16:02:43] [INFO] 等待2s加载登录按钮
+[2019-04-23 16:02:43] [INFO] 在元素： id: com.example.xiaolanyun.ldmart:id/et_username输入内容root
+[2019-04-23 16:02:43] [INFO] 输入账户密码
+[2019-04-23 16:02:45] [INFO] 暂停:2秒
+[2019-04-23 16:02:45] [INFO] 点击登陆
+[2019-04-23 16:02:45] [INFO] 点击元素： id: com.example.xiaolanyun.ldmart:id/btn_login
+[2019-04-23 16:02:45] [INFO] 暂停:2秒
+[2019-04-23 16:02:47] [INFO] 暂停:2秒
+[2019-04-23 16:02:47] [INFO] 管理员账户登陆成功
+[2019-04-23 16:02:47] [INFO] 点击管理员账户导航栏
+[2019-04-23 16:02:47] [INFO] 点击元素： id: com.example.xiaolanyun.ldmart:id/tab_add_user
+[2019-04-23 16:02:47] [INFO] 已经切换到界面
+[2019-04-23 16:02:48] [INFO] 输入请输入用户名信息
+[2019-04-23 16:02:51] [INFO] 在元素： id: com.example.xiaolanyun.ldmart:id/et_password输入内容123456
+[2019-04-23 16:02:51] [INFO] 选择账户类型
+[2019-04-23 16:02:51] [INFO] 点击元素： id: com.example.xiaolanyun.ldmart:id/rbtn_root
+[2019-04-23 16:02:52] [INFO] 等待2s加载登录按钮
+[2019-04-23 16:02:53] [INFO] 在元素： id: com.example.xiaolanyun.ldmart:id/username输入内容卖1
+[2019-04-23 16:02:54] [INFO] 输入卖1信息完毕
+[2019-04-23 16:02:54] [INFO] 输入信息
+[2019-04-23 16:02:54] [INFO] 暂停:2秒
+[2019-04-23 16:02:54] [INFO] 点击登陆
+[2019-04-23 16:02:55] [INFO] 点击元素： id: com.example.xiaolanyun.ldmart:id/btn_login
+[2019-04-23 16:02:57] [INFO] 暂停:2秒
+[2019-04-23 16:02:57] [INFO] 管理员账户登陆成功
+[2019-04-23 16:02:57] [INFO] 点击管理员账户导航栏
+[2019-04-23 16:02:58] [INFO] 点击元素： id: com.example.xiaolanyun.ldmart:id/tab_add_user
+[2019-04-23 16:02:58] [INFO] 已经切换到界面
+[2019-04-23 16:02:58] [INFO] checkLoginUI 测试用例执行成功！
+[2019-04-23 16:02:58] [INFO] checkLoginUI 测试用例执行成功！
+[2019-04-23 16:02:58] [INFO] checkLoginUI 测试用例执行成功！
+[2019-04-23 16:02:58] [INFO] checkLoginUI 测试用例执行成功！
+[2019-04-23 16:02:59] [INFO] 小烂云Mart已经关闭
+[2019-04-23 16:02:59] [INFO] 执行成功的用例 = checkLoginUI
+[2019-04-23 16:02:59] [INFO] 执行成功的用例 = checkLoginUI
+[2019-04-23 16:02:59] [INFO] 执行成功的用例 = checkLoginUI
+[2019-04-23 16:02:59] [INFO] 执行成功的用例 = checkLoginUI
+[2019-04-23 16:02:59] [INFO] 在元素： id: com.example.xiaolanyun.ldmart:id/password1输入内容123456
+[2019-04-23 16:02:59] [INFO] 输入信息完毕
+[2019-04-23 16:02:59] [INFO] 输入信息
+[2019-04-23 16:03:05] [INFO] 在元素： id: com.example.xiaolanyun.ldmart:id/password2输入内容123456
+[2019-04-23 16:03:05] [INFO] 输入信息完毕
+[2019-04-23 16:03:05] [INFO] 点击添加商家按钮
+[2019-04-23 16:03:06] [INFO] 点击元素： id: com.example.xiaolanyun.ldmart:id/rbtn_seller
+[2019-04-23 16:03:06] [INFO] 已经点击添加商家按钮
+[2019-04-23 16:03:08] [INFO] 暂停:2秒
+[2019-04-23 16:03:08] [INFO] 点击添加卖家按钮
+[2019-04-23 16:03:09] [INFO] 点击元素： id: com.example.xiaolanyun.ldmart:id/btn_add_user
+[2019-04-23 16:03:09] [INFO] 已经点击添加卖家按钮
+[2019-04-23 16:03:11] [INFO] 暂停:2秒
+[2019-04-23 16:03:11] [INFO] 账户登陆
+[2019-04-23 16:03:11] [INFO] 输入账户名称
+[2019-04-23 16:03:13] [INFO] 暂停:2秒
+[2019-04-23 16:03:17] [INFO] 在元素： id: com.example.xiaolanyun.ldmart:id/et_username输入内容root
+[2019-04-23 16:03:17] [INFO] 输入账户密码
+[2019-04-23 16:03:19] [INFO] 暂停:2秒
+[2019-04-23 16:03:24] [INFO] 在元素： id: com.example.xiaolanyun.ldmart:id/et_password输入内容123456
+[2019-04-23 16:03:24] [INFO] 选择账户类型
+[2019-04-23 16:03:25] [INFO] 点击元素： id: com.example.xiaolanyun.ldmart:id/rbtn_root
+[2019-04-23 16:03:26] [INFO] 等待2s加载登录按钮
+[2019-04-23 16:03:28] [INFO] 暂停:2秒
+[2019-04-23 16:03:28] [INFO] 点击登陆
+[2019-04-23 16:03:28] [INFO] 点击元素： id: com.example.xiaolanyun.ldmart:id/btn_login
+[2019-04-23 16:03:30] [INFO] 暂停:2秒
+[2019-04-23 16:03:30] [INFO] 管理员账户登陆成功
+[2019-04-23 16:03:30] [INFO] 点击管理员账户导航栏
+[2019-04-23 16:03:30] [INFO] 点击元素： id: com.example.xiaolanyun.ldmart:id/tab_add_user
+[2019-04-23 16:03:30] [INFO] 已经切换到界面
+[2019-04-23 16:03:31] [INFO] 输入请输入用户名信息
+[2019-04-23 16:03:37] [INFO] 在元素： id: com.example.xiaolanyun.ldmart:id/username输入内容买1
+[2019-04-23 16:03:37] [INFO] 输入买1信息完毕
+[2019-04-23 16:03:37] [INFO] 输入信息
+[2019-04-23 16:03:42] [INFO] 在元素： id: com.example.xiaolanyun.ldmart:id/password1输入内容123456
+[2019-04-23 16:03:43] [INFO] 输入信息完毕
+[2019-04-23 16:03:43] [INFO] 输入信息
+[2019-04-23 16:03:48] [INFO] 在元素： id: com.example.xiaolanyun.ldmart:id/password2输入内容123456
+[2019-04-23 16:03:49] [INFO] 输入信息完毕
+[2019-04-23 16:03:49] [INFO] 点击添加买家按钮
+[2019-04-23 16:03:49] [INFO] 点击元素： id: com.example.xiaolanyun.ldmart:id/rbtn_buyer
+[2019-04-23 16:03:49] [INFO] 已经点击添加买家按钮
+[2019-04-23 16:03:51] [INFO] 暂停:2秒
+[2019-04-23 16:03:51] [INFO] 点击添加买家按钮
+[2019-04-23 16:03:52] [INFO] 点击元素： id: com.example.xiaolanyun.ldmart:id/btn_add_user
+[2019-04-23 16:03:52] [INFO] 已经点击添加买家按钮
+[2019-04-23 16:03:52] [INFO] 账户登陆
+[2019-04-23 16:03:52] [INFO] 输入账户名称
+[2019-04-23 16:03:54] [INFO] 暂停:2秒
+[2019-04-23 16:03:59] [INFO] 在元素： id: com.example.xiaolanyun.ldmart:id/et_username输入内容买1
+[2019-04-23 16:03:59] [INFO] 输入账户密码
+[2019-04-23 16:04:01] [INFO] 暂停:2秒
+[2019-04-23 16:04:06] [INFO] 在元素： id: com.example.xiaolanyun.ldmart:id/et_password输入内容123456
+[2019-04-23 16:04:06] [INFO] 选择账户类型
+[2019-04-23 16:04:06] [INFO] 点击元素： id: com.example.xiaolanyun.ldmart:id/rbtn_buyer
+[2019-04-23 16:04:07] [INFO] 等待2s加载登录按钮
+[2019-04-23 16:04:09] [INFO] 暂停:2秒
+[2019-04-23 16:04:09] [INFO] 点击登陆
+[2019-04-23 16:04:09] [INFO] 点击元素： id: com.example.xiaolanyun.ldmart:id/btn_login
+[2019-04-23 16:04:11] [INFO] 暂停:2秒
+[2019-04-23 16:04:11] [INFO] 客户账户登陆成功
+[2019-04-23 16:04:12] [INFO] 点击高山苹果
+[2019-04-23 16:04:12] [INFO] 点击元素： xpath: //android.widget.TextView[@text='高山苹果']
+[2019-04-23 16:04:13] [INFO] 点击元素： id: com.example.xiaolanyun.ldmart:id/btn_buy
+[2019-04-23 16:04:19] [INFO] 在元素： class name: android.widget.EditText输入内容123456
+[2019-04-23 16:04:22] [INFO] 点击元素： id: android:id/button1
+[2019-04-23 16:04:25] [INFO] 账户登陆
+[2019-04-23 16:04:25] [INFO] 输入账户名称
+[2019-04-23 16:04:27] [INFO] 暂停:2秒
+[2019-04-23 16:04:33] [INFO] 在元素： id: com.example.xiaolanyun.ldmart:id/et_username输入内容卖1
+[2019-04-23 16:04:33] [INFO] 输入账户密码
+[2019-04-23 16:04:35] [INFO] 暂停:2秒
+[2019-04-23 16:04:40] [INFO] 在元素： id: com.example.xiaolanyun.ldmart:id/et_password输入内容123456
+[2019-04-23 16:04:40] [INFO] 选择账户类型
+[2019-04-23 16:04:41] [INFO] 点击元素： id: com.example.xiaolanyun.ldmart:id/rbtn_seller
+[2019-04-23 16:04:42] [INFO] 等待2s加载登录按钮
+[2019-04-23 16:04:44] [INFO] 暂停:2秒
+[2019-04-23 16:04:44] [INFO] 点击登陆
+[2019-04-23 16:04:44] [INFO] 点击元素： id: com.example.xiaolanyun.ldmart:id/btn_login
+[2019-04-23 16:04:46] [INFO] 暂停:2秒
+[2019-04-23 16:04:46] [INFO] 商户账户登陆成功
+[2019-04-23 16:04:46] [INFO] 点击
+[2019-04-23 16:04:47] [INFO] 点击元素： id: com.example.xiaolanyun.ldmart:id/tab_orders
+[2019-04-23 16:04:48] [INFO] 点击元素： id: com.example.xiaolanyun.ldmart:id/btn_deliver
+[2019-04-23 16:04:48] [INFO] rootAddUser 测试用例执行成功！
+[2019-04-23 16:04:48] [INFO] rootAddUser 测试用例执行成功！
+[2019-04-23 16:04:48] [INFO] rootAddUser 测试用例执行成功！
+[2019-04-23 16:04:48] [INFO] rootAddUser 测试用例执行成功！
+[2019-04-23 16:04:48] [INFO] 小烂云Mart已经关闭
+[2019-04-23 16:04:48] [INFO] 执行成功的用例 = rootAddUser
+[2019-04-23 16:04:48] [INFO] 执行成功的用例 = rootAddUser
+[2019-04-23 16:04:48] [INFO] 执行成功的用例 = rootAddUser
+[2019-04-23 16:04:48] [INFO] 执行成功的用例 = rootAddUser
+[2019-04-23 16:04:50] [INFO] Excel报告已经生成，请查看：[E:\java_workspace\DevOps_AppiumParallelTest\result\test-output\excelReports\TestReport_2019-04-23_16-04-小烂云Mart所有测试用例多台手机并行测试.xlsx]
