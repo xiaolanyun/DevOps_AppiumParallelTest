@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="小烂云Mart" duration-ms="154069" started-at="2019-04-18T11:54:12Z" finished-at="2019-04-18T11:56:46Z">
+    <groups>
+    </groups>
+    <test name="管理员登陆添加买家卖家账户并购买商品发货" duration-ms="154069" started-at="2019-04-18T11:54:12Z" finished-at="2019-04-18T11:56:46Z">
+      <class name="com.xiaolanyun.appium.DataTest.testCase.RootAddUserAndBuyGoods.RootAddUser_001_UICheckForAddUser_Test">
+        <test-method status="PASS" signature="initTest(org.testng.ITestContext)[pri:0, instance:com.xiaolanyun.appium.DataTest.testCase.RootAddUserAndBuyGoods.RootAddUser_001_UICheckForAddUser_Test@4d6ee47]" name="initTest" is-config="true" duration-ms="11192" started-at="2019-04-18T19:54:12Z" finished-at="2019-04-18T19:54:23Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@15f8701f]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initTest -->
+        <test-method status="PASS" signature="rootAddUser()[pri:0, instance:com.xiaolanyun.appium.DataTest.testCase.RootAddUserAndBuyGoods.RootAddUser_001_UICheckForAddUser_Test@4d6ee47]" name="rootAddUser" duration-ms="142094" started-at="2019-04-18T19:54:23Z" finished-at="2019-04-18T19:56:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rootAddUser -->
+        <test-method status="PASS" signature="clenTest()[pri:0, instance:com.xiaolanyun.appium.DataTest.testCase.RootAddUserAndBuyGoods.RootAddUser_001_UICheckForAddUser_Test@4d6ee47]" name="clenTest" is-config="true" duration-ms="769" started-at="2019-04-18T19:56:45Z" finished-at="2019-04-18T19:56:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clenTest -->
+      </class> <!-- com.xiaolanyun.appium.DataTest.testCase.RootAddUserAndBuyGoods.RootAddUser_001_UICheckForAddUser_Test -->
+    </test> <!-- 管理员登陆添加买家卖家账户并购买商品发货 -->
+  </suite> <!-- 小烂云Mart -->
+</testng-results>
