@@ -2,50 +2,50 @@
 <testng-results skipped="0" failed="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="小烂云Mart所有测试用例多台手机并行测试" duration-ms="160500" started-at="2019-04-23T08:02:08Z" finished-at="2019-04-23T08:04:48Z">
+  <suite name="小烂云Mart所有测试用例多台手机并行测试" duration-ms="167356" started-at="2019-04-29T06:06:11Z" finished-at="2019-04-29T06:08:58Z">
     <groups>
     </groups>
-    <test name="管理员界面切换" duration-ms="50933" started-at="2019-04-23T08:02:08Z" finished-at="2019-04-23T08:02:59Z">
+    <test name="管理员界面切换" duration-ms="55113" started-at="2019-04-29T06:06:11Z" finished-at="2019-04-29T06:07:06Z">
       <class name="com.xiaolanyun.appium.DataTest.testCase.RootNavigation.RootNavigationPage_001_UICheckForRootLogin_Test">
-        <test-method status="PASS" signature="initTest(org.testng.ITestContext)[pri:0, instance:com.xiaolanyun.appium.DataTest.testCase.RootNavigation.RootNavigationPage_001_UICheckForRootLogin_Test@5494ecac]" name="initTest" is-config="true" duration-ms="20583" started-at="2019-04-23T16:02:08Z" finished-at="2019-04-23T16:02:28Z">
+        <test-method status="PASS" signature="initTest(org.testng.ITestContext)[pri:0, instance:com.xiaolanyun.appium.DataTest.testCase.RootNavigation.RootNavigationPage_001_UICheckForRootLogin_Test@5494ecac]" name="initTest" is-config="true" duration-ms="25911" started-at="2019-04-29T14:06:11Z" finished-at="2019-04-29T14:06:37Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[org.testng.TestRunner@733e994b]]>
+                <![CDATA[org.testng.TestRunner@1d9e3890]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initTest -->
-        <test-method status="PASS" signature="checkLoginUI()[pri:0, instance:com.xiaolanyun.appium.DataTest.testCase.RootNavigation.RootNavigationPage_001_UICheckForRootLogin_Test@5494ecac]" name="checkLoginUI" duration-ms="29293" started-at="2019-04-23T16:02:28Z" finished-at="2019-04-23T16:02:58Z">
+        <test-method status="PASS" signature="checkLoginUI()[pri:0, instance:com.xiaolanyun.appium.DataTest.testCase.RootNavigation.RootNavigationPage_001_UICheckForRootLogin_Test@5494ecac]" name="checkLoginUI" duration-ms="28073" started-at="2019-04-29T14:06:37Z" finished-at="2019-04-29T14:07:05Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- checkLoginUI -->
-        <test-method status="PASS" signature="clenTest()[pri:0, instance:com.xiaolanyun.appium.DataTest.testCase.RootNavigation.RootNavigationPage_001_UICheckForRootLogin_Test@5494ecac]" name="clenTest" is-config="true" duration-ms="1044" started-at="2019-04-23T16:02:58Z" finished-at="2019-04-23T16:02:59Z">
+        <test-method status="PASS" signature="clenTest()[pri:0, instance:com.xiaolanyun.appium.DataTest.testCase.RootNavigation.RootNavigationPage_001_UICheckForRootLogin_Test@5494ecac]" name="clenTest" is-config="true" duration-ms="1088" started-at="2019-04-29T14:07:05Z" finished-at="2019-04-29T14:07:06Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- clenTest -->
       </class> <!-- com.xiaolanyun.appium.DataTest.testCase.RootNavigation.RootNavigationPage_001_UICheckForRootLogin_Test -->
     </test> <!-- 管理员界面切换 -->
-    <test name="管理员登陆添加买家卖家账户并购买商品发货" duration-ms="160500" started-at="2019-04-23T08:02:08Z" finished-at="2019-04-23T08:04:48Z">
+    <test name="管理员登陆添加买家卖家账户并购买商品发货" duration-ms="167356" started-at="2019-04-29T06:06:11Z" finished-at="2019-04-29T06:08:58Z">
       <class name="com.xiaolanyun.appium.DataTest.testCase.RootAddUserAndBuyGoods.RootAddUserPage_001_UICheckForAddUserAndBuyGoods_Test">
-        <test-method status="PASS" signature="initTest(org.testng.ITestContext)[pri:0, instance:com.xiaolanyun.appium.DataTest.testCase.RootAddUserAndBuyGoods.RootAddUserPage_001_UICheckForAddUserAndBuyGoods_Test@5d419404]" name="initTest" is-config="true" duration-ms="18264" started-at="2019-04-23T16:02:08Z" finished-at="2019-04-23T16:02:26Z">
+        <test-method status="PASS" signature="initTest(org.testng.ITestContext)[pri:0, instance:com.xiaolanyun.appium.DataTest.testCase.RootAddUserAndBuyGoods.RootAddUserPage_001_UICheckForAddUserAndBuyGoods_Test@5d419404]" name="initTest" is-config="true" duration-ms="23930" started-at="2019-04-29T14:06:11Z" finished-at="2019-04-29T14:06:35Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[org.testng.TestRunner@12c24609]]>
+                <![CDATA[org.testng.TestRunner@7e938520]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initTest -->
-        <test-method status="PASS" signature="rootAddUser()[pri:0, instance:com.xiaolanyun.appium.DataTest.testCase.RootAddUserAndBuyGoods.RootAddUserPage_001_UICheckForAddUserAndBuyGoods_Test@5d419404]" name="rootAddUser" duration-ms="141545" started-at="2019-04-23T16:02:26Z" finished-at="2019-04-23T16:04:48Z">
+        <test-method status="PASS" signature="rootAddUser()[pri:0, instance:com.xiaolanyun.appium.DataTest.testCase.RootAddUserAndBuyGoods.RootAddUserPage_001_UICheckForAddUserAndBuyGoods_Test@5d419404]" name="rootAddUser" duration-ms="142691" started-at="2019-04-29T14:06:35Z" finished-at="2019-04-29T14:08:57Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- rootAddUser -->
-        <test-method status="PASS" signature="clenTest()[pri:0, instance:com.xiaolanyun.appium.DataTest.testCase.RootAddUserAndBuyGoods.RootAddUserPage_001_UICheckForAddUserAndBuyGoods_Test@5d419404]" name="clenTest" is-config="true" duration-ms="675" started-at="2019-04-23T16:04:48Z" finished-at="2019-04-23T16:04:48Z">
+        <test-method status="PASS" signature="clenTest()[pri:0, instance:com.xiaolanyun.appium.DataTest.testCase.RootAddUserAndBuyGoods.RootAddUserPage_001_UICheckForAddUserAndBuyGoods_Test@5d419404]" name="clenTest" is-config="true" duration-ms="721" started-at="2019-04-29T14:08:57Z" finished-at="2019-04-29T14:08:58Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- clenTest -->
